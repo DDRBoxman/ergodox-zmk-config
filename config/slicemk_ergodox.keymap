@@ -17,7 +17,7 @@
     &kp LCTRL  &kp GRAV   &kp LALT   &kp LARW   &kp DARW                                               &kp LARW   &kp DARW   &kp UARW   &kp RARW    &kp GUI
                                                            &kp LGUI   &kp LALT   &kp HOME    &kp INS
                                                                       &kp HOME   &kp PG_UP
-                                                &kp BSPC   &kp DEL                          &kp SPC    &kp RET
+                                                &kp BSPC   &kp DEL                          &kp RET    &kp SPC
                                                                       &kp END    &kp PG_DN
                         >;
                 };
